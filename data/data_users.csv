@@ -1,0 +1,11 @@
+name,email,password,creation date,premium
+Juan Perez,juan.perez@example.com,5f4dcc3b5aa765d61d8327deb882cf99,2022-01-01,False
+Maria Rodriguez,maria.rodriguez@example.com,2f4dcc3b5aa765d61d8327deb882cf99,2022-02-01,True
+Pedro Martinez,pedro.martinez@example.com,7f4dcc3b5aa765d61d8327deb882cf99,2022-03-01,False
+Ana Garcia,ana.garcia@example.com,3f4dcc3b5aa765d61d8327deb882cf99,2022-04-01,True
+Carlos Diaz,carlos.diaz@example.com,9f4dcc3b5aa765d61d8327deb882cf99,2022-05-01,True
+Lucia Hernandez,lucia.hernandez@example.com,6f4dcc3b5aa765d61d8327deb882cf99,2022-06-01,False
+Miguel Ortiz,miguel.ortiz@example.com,8f4dcc3b5aa765d61d8327deb882cf99,2022-07-01,True
+Sofia Rodriguez,sofia.rodriguez@example.com,1f4dcc3b5aa765d61d8327deb882cf99,2022-08-01,False
+Alejandro Ortiz,alejandro.ortiz@example.com,4f4dcc3b5aa765d61d8327deb882cf99,2022-09-01,True
+Carla Gomez,carla.gomez@example.com,0f4dcc3b5aa765d61d8327deb882cf99,2022-10-01,False
